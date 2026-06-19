@@ -1,0 +1,11 @@
+logs/
+node_modules/
+.env
+*.log
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+dreams.db
